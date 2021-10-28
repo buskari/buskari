@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Clean Architecture and NodeJS
 - 📫 What I live for: to help others to improve themselves
 - 🆒 Things that I love: `[jiu jitsu, reading books, playing games]`
-- 😄 Pronouns: Him/His
 - ⚡ Fun fact: I can do hypnosis
 - 💪 A phrase that inspires me: "Fortis Fortuna Adiuvat"
