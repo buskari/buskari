@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 🆒 Things that I love: `[jiu jitsu, reading books, playing games]`
 - ⚡ Fun fact: I can do hypnosis
 - 💪 A phrase that inspires me: "Fortis Fortuna Adiuvat"
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buskari)](https://github.com/anuraghazra/github-readme-stats)
+
