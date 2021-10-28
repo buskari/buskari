@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 💪 A phrase that inspires me: "Fortis Fortuna Adiuvat"
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buskari)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buskari&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
