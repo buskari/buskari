@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💪 A phrase that inspires me: "Fortis Fortuna Adiuvat"
 -->
 
-- 🔭 I’m currently working as Back End Developer on DASA
+- 🔭 I’m currently working as Back End Developer at DASA
 - 🌱 I’m currently learning Clean Architecture and NodeJS
 - 📫 What I live for: to help others to improve themselves
 - 🆒 Things that I like: jiu jitsu, read books, playing games
