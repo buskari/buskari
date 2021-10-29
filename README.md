@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 💪 A phrase that inspires me: "Fortis Fortuna Adiuvat"
 
 
-[![Buskari's GitHub stats](https://github-readme-stats.vercel.app/api?username=buskari&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+## Connect or contact me:
+[![My linkedin profile](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/andris-buscariolli/)
+[![My email contact](https://img.shields.io/badge/-GMAIL-red)](malito:andris.contact@gmail.com)
 
-
-[![My linkedin profile](https://ibb.co/f2jKdPc)](https://www.linkedin.com/in/andris-buscariolli/)
 
