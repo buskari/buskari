@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💪 A phrase that inspires me: "Fortis Fortuna Adiuvat"
 
 
-## Connect or contact me:
+#### Connect or contact me:
 [![My linkedin profile](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/andris-buscariolli/)
 [![My email contact](https://img.shields.io/badge/-GMAIL-red)](malito:andris.contact@gmail.com)
 
