@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 
 [![Buskari's GitHub stats](https://github-readme-stats.vercel.app/api?username=buskari&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![My linkedin profile]https://img.shields.io/badge/-LinkedIn-blue
+
