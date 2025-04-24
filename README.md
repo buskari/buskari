@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Back End Developer at Mercado Livre
-- 🌱 I’m currently learning Java with Spring Boot and Hibernate and many other techs
-- 📫 What I live for: to help others to improve themselves
-- 🆒 Things that I love: `[jiu jitsu, reading books, playing games]`
+- 🌱 I’m currently working with Golang but also had some experience with Java and Spring Boot 
+- 📫 What I live for: to help others to understand themselves
+- 🆒 Things that I love: `[cats, movies and tv shows, playing games]`
 - ⚡ Fun fact: I can do hypnosis
-- 💪 A phrase that inspires me: "Fortis Fortuna Adiuvat"
+- 💪 A phrase that inspires me: "Be the best you can be at this moment."
 
 
 <h3 align="left">Connect with me:</h3>
 <div>  
   <a href="https://www.linkedin.com/in/andris-buscariolli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:andris.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:andrisbuscariolli88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 <br>
 </div>
