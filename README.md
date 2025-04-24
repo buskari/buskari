@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Back End Developer at Mercado Livre
 - 🌱 I’m currently working with Golang but also had some experience with Java and Spring Boot 
 - 📫 What I live for: to help others to understand themselves
-- 🆒 Things that I love: `[cats, movies / tv shows, playing games]`
+- 🆒 Things that I love: `[cats, movies / tv shows, play Tibia]`
 - ⚡ Fun fact: I can do hypnosis
 - 💪 A phrase that inspires me: "Be the best you can be at this moment."
 
